@@ -5,7 +5,7 @@
 # Team Name - Insidious
 # Team Members
 * [Chirag Patil](https://github.com/cp1307)
-* [Nitish Gautam](https://github.com/Nitishg1223)
+* [Siddham Jain](https://github.com/siddhamsj)
 * [Harshit Pachauri](https://github.com/harshpac)
 
 
